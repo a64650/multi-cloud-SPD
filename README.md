@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/a64650/multi-cloud-SPD/actions/workflows/main.yml/badge.svg)](https://github.com/a64650/multi-cloud-SPD/actions/workflows/main.yml)
+
 # multi-cloud-SPD
 This is a Sample of multi-cloud for SPD -> AWS, Azure GCP
 
